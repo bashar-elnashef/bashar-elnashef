@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/basharelnashef" target="blank"><img src="https://img.shields.io/twitter/follow/basharelnashef?logo=twitter&style=for-the-badge" alt="basharelnashef" /></a> </p>
 
-- 🔭 I’m currently working on [Iwilladditsoon](Iwilladditsoon)
+- 🔭 I’m currently working on [I will add it soon](Iwilladditsoon)
 
 - 🌱 I’m currently learning **Deep reinforcement learning**
 
-- 👨‍💻 All of my projects are available at [Iwilladditsoon](Iwilladditsoon)
+- 👨‍💻 All of my projects are available at [I will add it soon](Iwilladditsoon)
 
 - 💬 Ask me about **Computer vision and all things related to AI**
 
 - 📫 How to reach me **elnashefb@gmail.com**
 
-- 📄 Know about my experiences [Iwilladditsoon](Iwilladditsoon)
+- 📄 Know about my experiences [I will add it soon](Iwilladditsoon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
