@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/basharelnashef" target="blank"><img src="https://img.shields.io/twitter/follow/basharelnashef?logo=twitter&style=for-the-badge" alt="basharelnashef" /></a> </p>
 
-- 🔭 I’m currently working on [Multi-task learner for the joint prediction of depth and semantic segmentation.]
+- 🔭 I’m working on a **Multi-task learner to jointly predict depth and semantic segmentation**.
 
 - 🌱 I’m currently learning **Deep reinforcement learning**
 
